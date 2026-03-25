@@ -2,12 +2,12 @@
 
 ## MediaTools Process Acquisition
 
-**Project Name:** MediaTools Process Acquisition  
-**Objective:** Migration of planning processes and tasks related to digital campaign planning to the CR operations team.  
-**Scope:** ~6 months, 9 analysts, areas: Investment Media and Ops Media  
-**Role:** Led migration planning, developed training plans, trained Ops team, transitioned campaign planning tasks, implemented process improvements, enhanced reporting, and designed operations strategy.  
-**Outcomes / Benefits:** New operations strategy for Best Buy account; ~80% reduction in reporting errors and turnaround times; faster resolution of data issues; 6 new positions created in CR; more flexible processes optimizing client operations and strengthening PGD CR.  
-**Tools Used:** MediaTools, reporting dashboards for each phase (Brief, Concept, Tactical, Actual).  
+- **Project Name:** MediaTools Process Acquisition  
+- **Objective:** Migration of planning processes and tasks related to digital campaign planning to the CR operations team.  
+- **Scope:** ~6 months, 9 analysts, areas: Investment Media and Ops Media  
+- **Role:** Led migration planning, developed training plans, trained Ops team, transitioned campaign planning tasks, implemented process improvements, enhanced reporting, and designed operations strategy.  
+- **Outcomes / Benefits:** New operations strategy for Best Buy account; ~80% reduction in reporting errors and turnaround times; faster resolution of data issues; 6 new positions created in CR; more flexible processes optimizing client operations and strengthening PGD CR.  
+- **Tools Used:** MediaTools, reporting dashboards for each phase (Brief, Concept, Tactical, Actual).  
 
 ## Integration of New Accounts for Client Ops PGD
 
